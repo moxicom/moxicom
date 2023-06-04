@@ -22,8 +22,9 @@ Python - basic knowledge.
 ## My Tech Stack:
  - c++
  - Python
+ - Php
  - C#
- - Postgres
+ - SQL. Postgres
  - Html CSS :))))
  
 ## Activity
