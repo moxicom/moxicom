@@ -24,6 +24,7 @@ Python - basic knowledge.
  - Python
  - Php
  - C#
+ - Go
  - SQL. Postgres
  - Html CSS :))))
  
