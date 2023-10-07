@@ -14,11 +14,6 @@ You can find me here:
   </a>
 </div>
 
-## My skills:
-C++ (primary language) - basic knowledge of the language, STL library,
-working with OOP methodology, as well as multi-threaded programming.
-Python - basic knowledge.
-
 ## My Tech Stack:
  - c++
  - Python
