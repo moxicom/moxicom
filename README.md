@@ -18,7 +18,7 @@ You can find me here:
  - Linux
  - Docker
  - SQL / PostgreSQL
- - NoSQL / Redis (brocker && cache) / Elasticsearch
+ - NoSQL / Mongo / Redis (brocker && cache) / Elasticsearch
  - Golang Web frameworks (Echo, Gin, Gorilla)
  - protobuf
  - gRPC
