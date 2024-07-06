@@ -15,13 +15,21 @@ You can find me here:
 </div>
 
 ## My Tech Stack:
- - c++
- - Python
- - Php
- - C#
- - Go
- - SQL. Postgres
- - Html CSS :))))
+ - Linux
+ - Docker
+ - SQL / PostgreSQL
+ - NoSQL / Redis (brocker && cache) / Elasticsearch
+ - Golang Web frameworks (Echo, Gin, Gorilla)
+ - protobuf
+ - gRPC
+ - websockets
+
+  Also dealt with
+ - C# (Entity fr., ASP.NET, WPF)
+ - c++ (stl, algorythms, sockets)
+ - Python (django a bit, aiogram)
+ - Php (basic syntax)
+ - typescript, javascript (basic react syntax)
  
 ## Activity
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=moxicom&theme=dark&background=000000)](https://git.io/streak-stats)
