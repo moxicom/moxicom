@@ -13,23 +13,6 @@ You can find me here:
     <img src="https://img.shields.io/badge/telegram-white?logo=telegram&color=white" alt="Telegram Badge"/>
   </a>
 </div>
-
-## My Tech Stack:
- - Linux
- - Docker
- - SQL / PostgreSQL
- - NoSQL / Mongo / Redis (brocker && cache) / Elasticsearch
- - Golang Web frameworks (Echo, Gin, Gorilla)
- - protobuf
- - gRPC
- - websockets
-
-  Also dealt with
- - C# (Entity fr., ASP.NET, WPF)
- - c++ (stl, algorythms, sockets)
- - Python (django a bit, aiogram)
- - Php (basic syntax)
- - typescript, javascript (basic react syntax)
  
 ## Activity
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=moxicom&theme=dark&background=000000)](https://git.io/streak-stats)
