@@ -18,7 +18,11 @@ You can find me here:
 </div>
  
 ## Activity
+<div align="center">
+  
 [![GitHub Streak](https://streak-stats.demolab.com?user=moxicom&theme=github-dark&hide_border=true&border_radius=5.2&short_numbers=true&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat&card_width=600&card_height=200)](https://git.io/streak-stats)
+
+</div>
 <!--
 **moxicom/moxicom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
